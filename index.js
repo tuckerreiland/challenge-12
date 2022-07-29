@@ -185,5 +185,5 @@ const addEmployee = async () => {
     console.log(`${input.firstName} ${input.lastName} added to employee database.`)
     mainMenu()
 }
-addRole();
+mainMenu();
 // mainMenu();
